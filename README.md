@@ -11,7 +11,7 @@ Nesse desafio, foi desenvolvido uma aplicação mobile, a GoMarketplace, com o o
 * NodeJs - (desenvolvido utilizando a versão v12.16.2)
 * Yarn - (opcional - versão 1.22.4)
 
-# Técnologias utilizadas
+# Tecnologias utilizadas
 
 * React Native
 * Typescript
