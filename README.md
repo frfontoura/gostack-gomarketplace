@@ -42,12 +42,12 @@ yarn json-server server.json -p 3333
 abd reverse tcp:3333 tcp:3333
 ```
 
-4 - Executar o comando:
+5 - Executar o comando:
 ```
 yarn start
 ```
 
-5 - Executar o comando:
+6 - Executar o comando:
 ```
 yarn android
 ```
